@@ -39,3 +39,8 @@ moron:
     description: "120x120x120 Polar-CoreXY hybrid printer, inspired by the Voron V0."
     repository: "https://raw.githubusercontent.com/RedBigz/moron/refs/heads/main/JOURNAL.md"
     file_name: moron.md
+Small:
+    title: "Small"
+    description: "This should be a collpsable 3d printer that can print it's own legs in order to grow"
+    repository: "https://github.com/Rikhav21/BriefCase/blob/main/journal.md"
+    file_name: small.md
